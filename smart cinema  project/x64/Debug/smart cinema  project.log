@@ -1,0 +1,6 @@
+﻿  smart cinema  project.cpp
+F:\Engineering files\2nd computer\1st semester\Data Structures and Algorithms\Assignments (section)\smart cinema  project\smart cinema  project\smart cinema  project.cpp(714,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Engineering files\2nd computer\1st semester\Data Structures and Algorithms\Assignments (section)\smart cinema  project\smart cinema  project\smart cinema  project.cpp(827,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Engineering files\2nd computer\1st semester\Data Structures and Algorithms\Assignments (section)\smart cinema  project\smart cinema  project\smart cinema  project.cpp(1294,7): warning C4101: 's': unreferenced local variable
+F:\Engineering files\2nd computer\1st semester\Data Structures and Algorithms\Assignments (section)\smart cinema  project\smart cinema  project\smart cinema  project.cpp(1367,11): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  smart cinema  project.vcxproj -> F:\Engineering files\2nd computer\1st semester\Data Structures and Algorithms\Assignments (section)\smart cinema  project\x64\Debug\smart cinema  project.exe

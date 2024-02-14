@@ -1,0 +1,4 @@
+DoctorStrange 19\5 85
+Spiderman 23\7 90
+Dark 21\4 75
+loki 14\3 75
